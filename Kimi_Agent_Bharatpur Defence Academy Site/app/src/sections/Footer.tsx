@@ -1,7 +1,7 @@
 const quickLinks = ['Home', 'Courses', 'About', 'Gallery', 'Reviews', 'Contact']
 const courseLinks = [
-  'NDA Coaching',
-  'CDS Preparation',
+  'CRPF Coaching',
+  'CISF Preparation',
   'SSC Coaching',
   'Army Coaching',
   'Police Exams',
