@@ -107,7 +107,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-bg.jpg"
+          src="/images/gallery-1.jpg"
           alt="Athlete running on foggy road at dawn"
           className="w-full h-full object-cover"
         />
