@@ -2,8 +2,7 @@ const quickLinks = ['Home', 'Courses', 'About', 'Gallery', 'Reviews', 'Contact']
 const courseLinks = [
   'NDA Coaching',
   'CDS Preparation',
-  'Air Force Coaching',
-  'Navy Coaching',
+  'SSC Coaching',
   'Army Coaching',
   'Police Exams',
 ]
@@ -77,7 +76,7 @@ export default function Footer() {
                 Nai Mandi, Bharatpur, Rajasthan
               </p>
               <p className="font-body text-sm text-white/60">
-                +91 98XXX XXXXX
+                +91 79 4710 4878
               </p>
               <p className="font-body text-sm text-white/60">
                 Mon-Sat: 6AM - 8PM
